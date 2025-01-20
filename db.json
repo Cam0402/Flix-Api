@@ -10,67 +10,123 @@
       },
       {
         "id": 2,
-        "titulo": "¡Entra el gran espadachín! ¡El Cazador de Piratas Roronoa Zoro!",
-        "img": "https://i.postimg.cc/zB7rVs8T/cap2.jpg",
-        "video": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
-        "categoria" : "Nuevo",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "titulo": "Como entrenar a tu Dragon",
+        "img": "https://i.pinimg.com/736x/de/7f/cf/de7fcfbe623105b1a1f6d72506059f05.jpg",
+        "video": "https://youtu.be/EQZ2goKveoQ?si=FpJUG3810QiQd01_",
+        "categoria" : "Proximamente",
+        "descripcion" : "live action de Como entrenar a tu Dragon"
       },
       {
         "id": 3,
-        "titulo": "¡Morgan vs. Luffy! ¿Quién es esa guapa muchacha?",
-        "img": "https://i.postimg.cc/HkXFrqtj/cap3.jpg",
-        "video": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
-        "categoria" : "Lo mas visto",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "titulo": "Capitán América: Un nuevo mundo",
+        "img": "https://i.pinimg.com/736x/7d/b4/7a/7db47a4f2af662065b63d40b99128a9a.jpg",
+        "video": "https://youtu.be/RXoqRPP-y5c?si=9aFJXG1I79oxndR7",
+        "categoria" : "Proximamente",
+        "descripcion" : "El nuevo Capitán América salvara al mundo de un siniestro complot"
       },
       {
         "id": 4,
-        "titulo": "El primer obstáculo? La ballena gigante Laboon aparece",
-        "img": "https://i.postimg.cc/VkQVP7cw/cap62.jpg",
-        "video": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+        "titulo": "F1",
+        "img": "https://i.pinimg.com/736x/a3/27/b9/a327b94161039ad629409a7227c995a8.jpg",
+        "video": "https://youtu.be/DrE9umGiPZQ?si=DAS2oe73d9Fjt6-U",
         "categoria" : "Proximamente",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "descripcion" : "Un ex piloto vuelve a la acción cuando regresa a las carreras de Fórmula 1 para enfrentarse a la máxima competición del deporte."
       },
      {
         "id": 5,
-        "titulo": "La promesa de un hombre. Luffy y la ballena prometen encontrarse nuevamente",
-        "img": "https://i.postimg.cc/XJpRYp16/cap63.jpg",
-        "video": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+        "titulo": "Mufasa",
+        "img": "https://i.pinimg.com/736x/12/d3/4b/12d34b2165beaa7c9238aa0ddd827829.jpg",
+        "video": "https://youtu.be/o17MF9vnabg?si=X_aQdb4sgTTpAKtY",
         "categoria" : "Nuevo",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "descripcion" : "Pelicula live action de Mufasa el Rey León"
       },
     {
         "id": 6,
-        "titulo": "Un pueblo de amante de los piratas? Llegada a Whiskey Peak",
-        "img": "https://i.postimg.cc/fLtPh1kw/cap64.jpg",
-        "video": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
-        "categoria" : "Lo mas visto",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "titulo": "Kraven el cazador",
+        "img": "https://i.pinimg.com/736x/8b/e2/34/8be2340853e5a21edbe5e64a7b07c140.jpg",
+        "video": "https://youtu.be/JoWdhvrkKjo?si=wre-y0gZMY0ESmvL",
+        "categoria" : "Nuevo",
+        "descripcion" : "Los villanos no nacen se hacen"
       },
     {
         "id": 7,
-        "titulo": "Zenny vive en la isla de la cabra y ¡hay un barco pirata en su montaña!",
-        "img": "https://i.postimg.cc/pX2Bfgxp/cap136.jpg",
-        "video": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
-        "categoria" : "Proximamente",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "titulo": "Flow",
+        "img": "https://i.pinimg.com/736x/97/8d/1b/978d1ba265ca787f096f501aa5117c83.jpg",
+        "video": "https://youtu.be/82WW9dVbglI?si=UAf4kJQpY6TsC2Ar",
+        "categoria" : "Nuevo",
+        "descripcion" : "La aventura de un gato perdido tratando de sobrevivir en la naturaleza"
       },
     {
         "id": 8,
-        "titulo": "¿Qué les parece el trato? La ambición de Zenny el prestamista!",
-        "img": "https://i.postimg.cc/c1VBjrQt/cap137.jpg",
-        "video": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+        "titulo": "Alien Romulus",
+        "img": "https://i.pinimg.com/736x/0a/46/94/0a469427a1eb4afb8eb1a46a8e9b4ac5.jpg",
+        "video": "https://youtu.be/x0XDEhP4MQs?si=br2eybXMiRCKYwi_",
         "categoria" : "Nuevo",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "descripcion" : "Los colonizadores espaciales se encuentran cara a cara con la forma de vida más aterradora del universo"
       },
     {
         "id": 9,
-        "titulo": "Donde esta el tesoro de la isla! los Piratas de Zenny a la carga!",
-        "img": "https://i.postimg.cc/2jJzhfnx/cap138.jpg",
-        "video": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+        "titulo": "La sustancia",
+        "img": "https://i.pinimg.com/736x/35/d6/65/35d6651cfb2e0f77d5ddf17cac49dc76.jpg",
+        "video": "https://youtu.be/6Bd5Jazn_-4?si=EaWsxhdQTbbZ0Scy",
         "categoria" : "Lo mas visto",
-        "descripcion" : "Pelicula live action de Lilo & Stitch"
+        "descripcion" : "Un laboratorio le ofrece una sustancia que promete transformarla en una versión mejorada de sí misma."
+      },
+    {
+        "id": 10,
+        "titulo": "Robot Salvaje",
+        "img": "https://i.pinimg.com/736x/9c/28/6d/9c286d15bc15fb2580b053d91b22bca8.jpg",
+        "video": "https://youtu.be/UPgUIORqja4?si=WtmMSx4M0qNu8enl",
+        "categoria" : "Lo mas visto",
+        "descripcion" : "Naufragó en una isla desierta un robot llamado Roz debe aprender a adaptarse a su nuevo entorno"
+      },
+     {
+        "id": 11,
+        "titulo": "Wicked",
+        "img": "https://i.pinimg.com/736x/65/60/60/656060b9cfaf636fc2c96f9aa9a7d4dd.jpg",
+        "video": "https://youtu.be/6COmYeLsz4c?si=m1McvtMRiL1agQy4",
+        "categoria" : "Lo mas visto",
+        "descripcion" : "Tras un encuentro con el Mago de Oz, su relación pronto llega a una encrucijada y sus vidas comienzan a tomar rumbos muy diferentes"
+      },
+    {
+        "id": 12,
+        "titulo": "Hereje",
+        "img": "https://i.pinimg.com/736x/db/13/66/db1366ead97be976923eba4e2bedd9ed.jpg",
+        "video": "https://youtu.be/O9i2vmFhSSY?si=d3AuoSGMDsA9LiPS",
+        "categoria" : "Lo mas visto",
+        "descripcion" : "Dos jóvenes misioneros se ven atrapados en un juego mortal del gato y el ratón"
+      },
+     {
+        "id": 13,
+        "titulo": "Nosferatu",
+        "img": "https://i.pinimg.com/736x/12/da/1b/12da1b03957b7d9e0a0975aa141b5bda.jpg",
+        "video": "https://youtu.be/nulvWqYUM8k?si=kUUvYfsUUgJ01l_n",
+        "categoria" : "Recomendadas",
+        "descripcion" : "Un joven empleado de tierras se embarca en un desgarrador viaje hacia lo desconocido"
+      },
+    {
+        "id": 14,
+        "titulo": "El tiempo que tenemos",
+        "img": "https://i.pinimg.com/736x/96/b4/88/96b4884e3480be3ee3871a1bedeac75a.jpg",
+        "video": "https://youtu.be/MH02yagHaNw?si=vMGQdZzSd9drmkz_",
+        "categoria" : "Recomendadas",
+        "descripcion" : "Almut y Tobias se unen gracias a un encuentro inesperado que cambia sus vidas."
+      },
+    {
+        "id": 15,
+        "titulo": "Como hacerse millonario antes de que muera la abuela",
+        "img": "https://i.pinimg.com/736x/63/1e/b2/631eb2fc799511cb0d61e5ccb84a0035.jpg",
+        "video": "https://youtu.be/lDRwR5wOsXM?si=0y5AmfCQPOYmSmkM",
+        "categoria" : "Recomendadas",
+        "descripcion" : "'M', un joven holgazán y quejica, descubre que su abuela sufre una enfermedad terminal"
+      },
+    {
+        "id": 16,
+        "titulo": "Pobres criaturas",
+        "img": "https://i.pinimg.com/736x/c4/a1/66/c4a1662eec2aeb848ed172b3677eb02b.jpg",
+        "video": "https://youtu.be/RlbR5N6veqw?si=MCtbfOCvmSpqklQ4",
+        "categoria" : "Recomendadas",
+        "descripcion" : "Una joven, que vuelve a la vida gracias a un científico poco ortodoxo"
       }
     ]
   }
